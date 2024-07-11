@@ -1,0 +1,163 @@
+{
+  "product": {
+    "productId": 0,
+    "sellerId": 0,
+    "discount": 0.00,
+    "stock": 0,
+    "productName": "",
+    "price": 0,
+    "productStatus": "IN_STOCK",
+    "description1": "",
+    "description2": "",
+    "listingDate": "2024-06-14 23:57:20",
+    "categoryId": 0,
+    "productDetail": ""
+  },
+  "prodSpecs": [
+    {
+      "prodSpecId": 0,
+      "spec1": "",
+      "spec1Name": "",
+      "specBase64": "",
+      "spec2": "",
+      "spec2Name": "",
+      "price": 0,
+      "stock": 0,
+      "productId": 0
+    }
+  ]
+}
+,
+{
+  "basicInfo": {
+    "productName": "MacBook Pro",
+    "productImg": {
+      "0": {}
+    },
+    "category": "電腦、3C及週邊",
+    "description": "<p>很貴的東西</p>"
+  },
+  "lowestBuy": "1",
+  "specs": [
+    {
+      "spec": "",
+      "properties": [
+        {
+          "id": "43974acd-7ab6-42ee-beae-9eac64b5b9fe",
+          "specImg": null,
+          "specProp": ""
+        }
+      ]
+    }
+  ],
+  "specCombinations": [
+    {
+      "id": "a4cd64a1-2e2d-493f-af39-5a7c903d5c57",
+      "spec1Name": "",
+      "spec1": "",
+      "spec2Name": null,
+      "spec2": null,
+      "price": "",
+      "stock": ""
+    }
+  ],
+  "salesInfo": {
+    "price": "40000",
+    "quantity": "11"
+  }
+}
+
+
+{
+"basicInfo": {
+"productName": "MacBook Pro",
+"productImg": {
+"0": {}
+},
+"category": "1",
+"description": "<p>很貴的東西</p>"
+},
+"lowestBuy": 1,
+"specs": [
+{
+"spec": "顏色",
+"properties": [
+{
+"id": "7eef29b7-9add-4849-ae2d-3dc7c6a3eff0",
+"specImg": {
+"0": {}
+},
+"specProp": "藍色"
+},
+{
+"id": "38fe56e9-c2f9-4416-8fcf-7d6f89119cd8",
+"specImg": {
+"0": {}
+},
+"specProp": "紅色"
+}
+],
+"id": "fea57d0e-72f9-4f54-bac8-664bb68816c5"
+},
+{
+"spec": "大小",
+"properties": [
+{
+"id": "7fb79067-fb52-4c4a-951e-e0448ee8e98d",
+"specImg": null,
+"specProp": "XL"
+},
+{
+"id": "c00493fb-7723-4a0a-bcd7-439f500b01b4",
+"specImg": null,
+"specProp": "Ｌ"
+}
+],
+"id": "761c5e5f-2443-4a10-bf93-888f5907e0a0"
+}
+],
+"specCombinations": [
+{
+"id": "cf0db672-b571-4543-bb7e-104f193b121f",
+"spec1Name": "顏色",
+"spec1": "藍色",
+"spec2Name": "大小",
+"spec2": "XL",
+"price": "2001",
+"stock": "1"
+},
+{
+"id": "c45058fe-da18-4a7c-bf67-9fbf0ac8c1b4",
+"spec1Name": "顏色",
+"spec1": "藍色",
+"spec2Name": "大小",
+"spec2": "Ｌ",
+"price": "2001",
+"stock": "2"
+},
+{
+"id": "70d267d4-738c-4cde-9b96-dabda98723d0",
+"spec1Name": "顏色",
+"spec1": "紅色",
+"spec2Name": "大小",
+"spec2": "XL",
+"price": "2003",
+"stock": "3"
+},
+{
+"id": "a6a0c456-3022-4b0d-bedb-cb7f79f9596c",
+"spec1Name": "顏色",
+"spec1": "紅色",
+"spec2Name": "大小",
+"spec2": "Ｌ",
+"price": "2004",
+"stock": "4"
+}
+],
+"salesInfo": {
+"price": 0,
+"quantity": 0
+}
+}
+
+{"product":{"sellerId":"11","stock":0,"productName":"MacBook Pro","price":0,"productStatus":"IN_STOCK","productDetail":"<p>1234</p>","categoryId":"1"},"prodSpecs":[{"spec1Name":"顏色","spec1":"藍色","spec1Base64":"data:image/jpeg;base64,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zlyngG+pdG5G67LissXVU0Zdv3vikbb6pHrKUh29ERYshERBrpfdu+EP3QrVSWQZ3i+5wBtrY5Gmx4aEH0oiKoqIgqioiCqKiIKrykKvK8pTog1tc5cU5RJj5RP6tNE0fOef5rs1eVxblJiLa4O96+COx7WueCP3fFWBpaYXK77sQf8ABQ/7MP8ADauCUJXZOTLFGvpWx3GaMc0Rwy6N8W5Skom11GcO2Jpoa01zJJzKXzSZXOjLLyhwcLBgNumba8N6kypdRXJeWP8AG4fi3916gV1PeWP8bh+Lf3XKALKE0uuqXVEQ0mfJPS87iJZncy1LO7M219HxC2vwl2TyC7/mZv2VyPkW/Kh+J1H8WFd3UldOR8ssFTSUsctNPLle98czjlLgcuZuUgdEWbJrv3arg85OQ3Ny54eSSSSS11yT1lfXO2eCezaGam0zubmiJ3CZhzMv2XAB7CV8r1GFEfgwCCZHZw7QxW6JaQesXd4BBnyts0fBHqUj5LakjGqT9b2RGe400h9bQtDWEW0W/wCSGlMmNQEboWVEzvg806P1yNVlIfSCIiwZLHPXjJVgf+ivctVjolRG8Ux2GJ13tmOY3HNU801rADXK029KwzthS+ZWfQar7ilbqQLzNAOCIjHtxpfMq/oVV9xU9udJ5tV9CqvuKT+Twnk9qCL+3Sk4VX0Oq+4q+3Sj4VX0Oq+4pP5Oank5qCL+3Sj4VX0Op+4nt0o+FV9DqfuKT+Tm8E8nN4IIwds6PhVfQ6n7isftjScKr6HU/dUq8nN4BPJzeAQQSq2npnbm1X0Sp+6oVtm2KrjBYyoEsRJjLqWoAIPumk5dAbA34gLuHk1vAKnkxvAIPlqOmmGhilB4GN4PqUn2U9k08hl5qosRYxtp5nZ+BJDdLdXf49+8mM4BUOFs80eCuzSJYVtSHt6ccrSN/ORSRn9oWPoWf7YIOPqW8OEs81vgE8kR+a3wChpxflTrI5qiJ7HDK2DKSb7+ccervChN2fpGftfYvp4YRH5rfAKvkmPzW+AV2afMGZn6RnifsS7P0jP2vsX0/wCSmea3wCu8mM80eATZpxjkekYzETI5wy+xJmg2dbMZYdLkW6iu3NrozuK8RhzeA8FcKEcAor39kt4rl3KXsK6aR1bRBpkfrUU9w3O79JGTpm4t6941uD01tKr+YQfLYwmre/mmU1QXk2y808a9pIsO86LtXJRsW7D43z1GX2XUBoLWkOEEQNwzMNC4nVxGmgGtrmec0qiNXaaXc4EVObRRXoiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD/9k=","spec2":[{"spec2Name":"大小","spec2":"XL","price":"1001","stock":"1"},{"spec2Name":"大小","spec2":"Ｌ","price":"1002","stock":"2"}]},{"spec1Name":"顏色","spec1":"紅色","spec1Base64":"data:image/jpeg;base64,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","spec2":[{"spec2Name":"大小","spec2":"XL","price":"1003","stock":"3"},{"spec2Name":"大小","spec2":"Ｌ","price":"1004","stock":"4"}]}]}
